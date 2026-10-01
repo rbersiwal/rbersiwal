@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Roji 👋
 
-<!--
-**rbersiwal/rbersiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE student at NIT Delhi | AI-ML Minor  
+💻 Interested in AI/ML, Software Development, Computer Vision & Electronics
 
-Here are some ideas to get you started:
+I enjoy building projects that combine software, AI/ML and hardware. 
+I'm currently exploring RAG systems, computer vision, embedded systems,
+and RF/antenna design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming
+- C
+- C++
+- Python
+- MATLAB
+
+### AI / ML & Software
+- Machine Learning
+- Data Structures & Algorithms
+- Computer Vision
+- RAG & LLMs
+- Streamlit
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### Electronics & Tools
+- CST Microwave Studio
+- Silvaco TCAD
+- Cadence
+- MATLAB
+- Git & GitHub
+- VS Code
+
+## 🚀 Projects
+
+### 🤖 Gesture RAG Assistant
+A project combining hand gesture recognition with a RAG-based PDF
+question-answering system.
+
+**Tech:** Python, MediaPipe, OpenCV, FAISS, Sentence Transformers,
+Llama 3.2, Streamlit
+
+### 📡 Wideband Circularly Polarized Antenna
+Designed and simulated wideband circularly polarized antennas using
+CST Microwave Studio and analyzed parameters such as S11, gain,
+bandwidth and radiation pattern.
+
+### 🚗 IoT-Based Accident Detection System
+Developed an accident detection system using an ADXL335 accelerometer,
+SIM800L GSM and GPS modules for automatic SMS alerts and location tracking.
+
+**Tech:** Arduino Uno, Embedded C/C++, ADXL335, SIM800L, GPS
+
+### 🌐 Educational Website
+Developed a responsive educational website for student learning,
+courses and exam preparation and deployed it using Netlify.
+
+## 🔬 Research Interests
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Retrieval-Augmented Generation
+- Embedded Systems
+- RF & Microwave Engineering
+- Antenna Design
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+- GitHub: [Your GitHub]
+
+---
+
+⭐ Thanks for visiting my profile!
