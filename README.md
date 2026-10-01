@@ -71,9 +71,9 @@ courses and exam preparation and deployed it using Netlify.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- GitHub: [Your GitHub]
+- LinkedIn: [www.linkedin.com/in/roji-bersiwal-97a3942a6]
+- Email: [Rbersiwal12@gmail.com]
+- GitHub: [https://github.com/rbersiwal]
 
 ---
 
