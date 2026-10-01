@@ -14,6 +14,7 @@ and RF/antenna design.
 - C++
 - Python
 - MATLAB
+- DSA
 
 ### AI / ML & Software
 - Machine Learning
